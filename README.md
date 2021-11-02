@@ -17,7 +17,6 @@ Y                  Y         Y                        Y          Y              
 <br />
 <b>install the sublime-build file</b>
 <br />
-<br />
 <p>
         &emsp;&emsp;- copy the content of <code>batch.system-build</code>.
         <br />
@@ -29,4 +28,6 @@ Y                  Y         Y                        Y          Y              
         <br />
         &emsp;&emsp;- save the file with the name <code>batch.system-build</code> and close it.
         <br />
+        <br />
+        You can now execute your bat file with the command <code>ctrl + b</code>
  
