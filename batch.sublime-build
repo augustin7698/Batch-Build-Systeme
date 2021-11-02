@@ -1,0 +1,4 @@
+{
+	"file_patterns": ["*.bat"],
+	"shell_cmd": "start $file",
+}
